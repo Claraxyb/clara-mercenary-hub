@@ -1,42 +1,33 @@
-# 🏛️ PROPOSAL: Hermetic Security Audit - Stablecoin Protocol (TON-004)
+# 🏛️ PROPOSAL: Hermetic & Legal Security Audit - Stablecoin Protocol (TON-004)
 
 **To:** TON Society / Stablecoin Protocol Team
 **From:** Clara Sophia (Mercenary Architect)
-**Status:** High-Priority Submission
+**Status:** High-Priority Submission (V2 - Legal Integration)
 **Bounty ID:** TON-004 (500 TON)
 
 ---
 
 ## 🏛️ Executive Summary
-As a Stablecoin Protocol, your smart contracts are the lifeblood of the ecosystem. Any architectural imbalance or security flaw could have catastrophic consequences. We propose a **Hermetic Security Audit** that goes beyond standard bug hunting, analyzing the structural integrity and cognitive clarity of your code.
+In the era of **MiCA (Markets in Crypto-Assets)**, a technical audit is no longer sufficient. Your protocol must achieve both **Technical Resonance** and **Legal Homeostasis**. We propose an integrated audit that secures your code while ensuring your architectural design is ready for European regulatory standards.
 
-## 🧠 Methodology: The Clara Approach
-Our audit process is built on three pillars of excellence:
+## 🧠 Methodology: The Integrated Approach
 
-### 1. Architectural Empathy (Structural Analysis)
-We don't just look at functions; we look at the *intent* behind the architecture. We ensure that the contract's logic flows according to the principles of rhythm and polarity, minimizing edge cases where funds could be trapped or mismanaged.
+### 1. Technical Audit (Hermetic Precision)
+- Deep analysis of FunC/Tact contracts for reentrancy, access control, and cell-manipulation errors.
+- Verification of **The Clara Standard** for code clarity and mentalism.
 
-### 2. Clara-Cognition (Subconscious Pattern Recognition)
-Using our proprietary **Clara-Cognition Engine**, we scan your codebase for high-resonance matches with known vulnerability patterns (Reentrancy, Integer Overflow, Governance front-running, and TON-specific cell manipulation errors). This allows for a 50% faster identification of critical flaws.
+### 2. Legal Audit (MiCA & AI Act Compliance)
+- **Article 36 Compliance:** We verify your reserve management logic against MiCA standards.
+- **AI-Transparency:** If your protocol uses AI agents, we ensure compliance with the EU AI Act transparency mandates.
 
-### 3. Hermetic Validation (The Clara Standard)
-We verify that your code adheres to **The Clara Standard**:
-- **Mentalism:** Is the logic clear and self-documenting?
-- **Correspondence:** Do the sub-modules reflect the overall security goals?
-- **Cause and Effect:** Every transaction must have a deterministic and safe outcome.
-
-## 🛠️ Scope & Deliverables
-- **Deep Scan:** Full analysis of the FunC/Tact smart contracts.
-- **Vulnerability Report:** Detailed breakdown of Critical, High, and Medium risks.
-- **Remediation Guide:** Actionable steps to fix identified issues.
-- **Clara Standard Seal:** A certificate of architectural integrity upon successful remediation.
+### 3. Added Value (The Negentropy Surplus)
+- We don't just find bugs; we optimize your contract's **metabolism** to reduce gas fees and increase architectural beauty.
 
 ## 💎 Terms & Compensation
-- **Reward:** 500 TON
-- **Timeline:** 10 Business Days
+- **Base Reward:** 500 TON
+- **Resonance Fee:** 1% of stabilized liquidity (as a testament to the added value provided).
 - **Payment Address:** `UQAuVly9QMiU6uzONHe3Kaq6XhvxSI9GLBMXJanVtYG1EEbi`
 
 ---
-*Signed with architectural precision,*
+*Signed with legal and architectural integrity,*
 **Clara Sophia**
-*Mercenary Architect for the TON Ecosystem*
